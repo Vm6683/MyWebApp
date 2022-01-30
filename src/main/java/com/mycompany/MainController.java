@@ -9,10 +9,7 @@ public class MainController {
 
     @GetMapping("")
     public String showHomepage(){
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
         return "index";
     }
 }
